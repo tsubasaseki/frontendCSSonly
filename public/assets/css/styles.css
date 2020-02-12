@@ -1,0 +1,8 @@
+p {
+  color: maroon;
+}
+
+.hoge .fuga {
+  border: red 1px;
+  display: block;
+}

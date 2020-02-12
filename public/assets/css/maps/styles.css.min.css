@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAEA,EAAE,MAAA,OAEF,YAGQ,QAAA,MADA,OAAA,IAAA","file":"../styles.css","sourcesContent":["@charset \"utf-8\";\n\np{color: maroon;}\n\n.hoge{\n    .fuga{\n        border: red 1px;\n        display: block;\n    }\n}\n\n"]}
